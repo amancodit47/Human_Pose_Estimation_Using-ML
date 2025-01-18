@@ -4,6 +4,9 @@ This project implements a human pose estimation system using machine learning te
 
 ---
 
+![image](https://github.com/user-attachments/assets/27075257-8551-41e9-9331-276cd9575ce8)
+
+
 ## Table of Contents
 - [About the Project](#about-the-project)
 - [Features](#features)
@@ -56,7 +59,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/deepu-sbc/AICTE-INTERNSHIP-HUMAN-POSE-ESTIMATION.git
+   git clone https://github.com/amancodit47/Human_Pose_Estimation_Using-ML.git
    cd AICTE-INTERNSHIP-HUMAN-POSE-ESTIMATION
    ```
 
@@ -123,12 +126,4 @@ Contributions are welcome! Follow these steps to contribute:
 3. Commit your changes.  
 4. Submit a pull request for review.
 
----
 
-## Contact
-
-For queries or feedback:  
-- **Email**: saideepikha1501@gmail.com  
-- **GitHub**: [deepu-sbc](https://github.com/deepu-sbc)
-
----
